@@ -17,7 +17,7 @@ I am a dedicated and self-motivated person, always willing to learn and adapt to
   
   Text Editors - [Vim]
 
-- 🌱 I’m currently a student at ALX_AFRICA on a journey to becoming a world-class Backend engineer.
+- 🌱 I’m currently a student at ALX_AFRICA where I am learning other languages to become a world-class Backend engineer.
 - 💞️ I want to collaborate on projects, solve real-world problems, and contribute to open-source.
 
 - 📫 You can reach out for discussions, collaborations, or if you have any opportunity you think would suit me.
