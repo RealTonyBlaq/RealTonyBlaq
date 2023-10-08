@@ -7,13 +7,13 @@ I see them as an opportunity for improvement and skills development.
 - 👀 I’m a tech enthusiast who wants to explore technology by working my way up the ladder and putting in the work.
 I am a dedicated and self-motivated person, always willing to learn and adapt to the ever-evolving tech space.
 
-- Tech Stack 🧑‍💻
+- Stack 🧑‍💻
   
   Front-end Engineering - [HTML, CSS]
   
   Back-end Engineering - [C/C++, Python]
   
-  IDEs - [Vscode, Code::Blocks]
+  IDEs - [Vscode]
   
   Text Editors - [Vim]
 
