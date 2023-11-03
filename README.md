@@ -9,9 +9,9 @@ I am a dedicated and self-motivated person, always willing to learn and adapt to
 
 - Stack 🧑‍💻
   
-  Front-end Engineering - [HTML, CSS]
-  
   Back-end Engineering - [C/C++, Python]
+
+  DevOps - [ Bash scripting ]
   
   IDEs - [Vscode]
   
