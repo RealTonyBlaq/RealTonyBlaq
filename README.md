@@ -1,31 +1,37 @@
-console.log('Hello, World!');
+---
 
-- 👋 Hi, I’m Ikpenyi Ifeanyi Anthony, a passionate Backend software engineer currently residing in Nigeria.
-I break down complex problems into smaller chunks and then solve the problems with my code. I always embrace new challenges because
-I see them as an opportunity for improvement and skills development.
+# 👋 Hi, I'm Ikpenyi Ifeanyi
 
-- 👀 I’m a tech enthusiast who wants to explore technology by working my way up the ladder and putting in the work.
-I am a dedicated and self-motivated person, always willing to learn and adapt to the ever-evolving tech space.
+I'm a passionate Backend Software Engineer based in Nigeria. I specialize in breaking down complex problems into manageable pieces and crafting solutions through efficient and clean code. I thrive on challenges and view them as opportunities to grow, improve my skills, and innovate.
 
-- Stack 🧑‍💻
-  
-  Back-end Engineering - [C/C++, Python]
+### 👀 About Me
 
-  DevOps - [ Bash scripting ]
-  
-  IDEs - [Vscode]
-  
-  Text Editors - [Vim]
+- **Tech Enthusiast**: I am deeply fascinated by technology and committed to continuously learning and evolving in the ever-changing tech landscape.
+- **Goal-Oriented**: I believe in the power of hard work and persistence. My goal is to explore the world of technology by working my way up, one step at a time.
+- **Self-Motivated**: I am constantly pushing myself to improve, adapt, and expand my knowledge in software engineering and beyond.
 
-- 🌱 I’m currently a student at ALX_AFRICA where I am learning other languages to become a world-class Backend engineer.
-- 💞️ I want to collaborate on projects, solve real-world problems, and contribute to open-source.
+### 💻 Tech Stack
 
-- 📫 You can reach out for discussions, collaborations, or if you have any opportunity you think would suit me.
+- **Backend Engineering**: C/C++, Python, NodeJs
+- **Frameworks**: [Flask, Django], Express
+- **DevOps**: Bash scripting, Puppet
+- **IDEs**: Visual Studio Code
 
-  🌐 Twitter - [https://twitter.com/AIIkpenyi]
+### 🌱 Professional Certificate
 
-  🌐 LinkedIn - [https://www.linkedin.com/in/ifeanyiikpenyi/]
+Backend Developer - **ALX Africa**   <a href="https://intranet.alxswe.com/certificates/rYRSEcXT6H" target="_blank">Link</a>
 
-Thanks for checking in! 
+### 💞 Let's Collaborate!
+
+I am eager to collaborate on impactful projects, solve real-world problems, and contribute to open-source communities. If you have an opportunity or project that aligns with my skills and interests, feel free to reach out!
+
+### 📫 Get in Touch
+
+- **Twitter**: [@AIIkpenyi](https://twitter.com/AIIkpenyi)
+- **LinkedIn**: [Ifeanyi Ikpenyi](https://www.linkedin.com/in/ifeanyiikpenyi/)
+
+Thanks for stopping by! 😊
+
+---
 
 ![TheOfficeBowGIF](https://github.com/RealTonyBlaq/RealTonyBlaq/assets/132378140/1d5c1d30-b8ec-43d5-9036-680bc300df88)
