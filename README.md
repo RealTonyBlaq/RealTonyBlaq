@@ -33,9 +33,6 @@ I am eager to collaborate on impactful projects, solve real-world problems, and 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="30"/>](https://twitter.com/AIIkpenyi)
 
-
-Thanks for stopping by! 😊
-
 ---
 
 ![TheOfficeBowGIF](https://github.com/RealTonyBlaq/RealTonyBlaq/assets/132378140/1d5c1d30-b8ec-43d5-9036-680bc300df88)
