@@ -41,6 +41,8 @@ I am eager to collaborate on impactful projects, solve real-world problems, and 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/ifeanyiikpenyi/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Twitter_X.png" alt="X" width="30"/>](https://twitter.com/AIIkpenyi)
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="30"/>](https://twitter.com/AIIkpenyi)
+
 Thanks for stopping by! 😊
 
 ---
