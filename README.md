@@ -28,7 +28,7 @@ I am eager to collaborate on impactful projects, solve real-world problems, and 
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeanyiikpenyi/)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AIIkpenyi)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/AIIkpenyi)
 
 Thanks for stopping by! 😊
 
