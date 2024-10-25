@@ -27,21 +27,12 @@ I am eager to collaborate on impactful projects, solve real-world problems, and 
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeanyiikpenyi/)
-[![X](https://img.shields.io/badge/X-#000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AIIkpenyi)
-
-# Connect with Me
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/ifeanyiikpenyi/)
-[![X](https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg)](https://twitter.com/AIIkpenyi)
-
-
 # Connect with Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/ifeanyiikpenyi/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Twitter_X.png" alt="X" width="30"/>](https://twitter.com/AIIkpenyi)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="30"/>](https://twitter.com/AIIkpenyi)
+
 
 Thanks for stopping by! 😊
 
