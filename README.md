@@ -19,7 +19,7 @@ I'm a passionate Backend Software Engineer based in Nigeria. I specialize in bre
 
 ### 🌱 Professional Certificate
 
-Backend Developer - **ALX Africa**   <div style=""><a href="https://intranet.alxswe.com/certificates/rYRSEcXT6H" target="_blank" style="text-decoration: none; background-color: #007bff;">Link</a></div>
+Backend Developer - **ALX Africa**   <a href="https://intranet.alxswe.com/certificates/rYRSEcXT6H" target="_blank" style="text-decoration: none; background-color: #007bff;">Link</a>
 
 ### 💞 Let's Collaborate!
 
