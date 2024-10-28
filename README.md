@@ -13,6 +13,7 @@ I'm a passionate Backend Software Engineer based in Nigeria. I specialize in bre
 ### 💻 Tech Stack
 
 - **Backend Engineering**: Python, NodeJs
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="70"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="70" style="color: #ddd;"/>
 - **DevOps**: Bash scripting, Puppet
 - **IDEs**: Visual Studio Code
