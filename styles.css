@@ -61,7 +61,7 @@ nav.links a:hover {
 .hero-section {
     text-align: center;
     padding: 100px 20px;
-    background-image:url('./img/philip-oroni-VfOGf5RWkeg-unsplash.jpg');
+    background-image:url('./assets/images/philip-oroni-VfOGf5RWkeg-unsplash.jpg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -69,7 +69,7 @@ nav.links a:hover {
 
 .about-section {
     margin-top: 20px;
-    background-image: url('./img/karsten-winegeart-F2V2Kn9cz1o-unsplash.jpg');
+    background-image: url('./assets/images/karsten-winegeart-F2V2Kn9cz1o-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }
