@@ -20,7 +20,9 @@ I'm a passionate Backend Software Engineer based in Nigeria. I specialize in bre
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" target="_blank" alt="NodeJS" width="70"/>
 
+#### Databases
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" target="_blank" alt="Flask" width="70"/>
 
 #### DevOps
 
