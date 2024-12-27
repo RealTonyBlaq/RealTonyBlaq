@@ -25,7 +25,7 @@ I'm a passionate Backend Software Engineer based in Nigeria. I specialize in bre
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" target="_blank" alt="SQL" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" target="_blank" alt="Redis" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" target="_blank" alt="MongoDB" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" target="_blank" alt="SQLITE" width="70"/>
+<img src="" target="_blank" alt="SQLITE" width="70"/>
 
 #### DevOps
 
