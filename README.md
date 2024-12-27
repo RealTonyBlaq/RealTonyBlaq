@@ -20,6 +20,8 @@ I'm a passionate Backend Software Engineer based in Nigeria. I specialize in bre
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" target="_blank" alt="NodeJS" width="70"/>
 
+
+
 #### DevOps
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Bash_Logo_Black_and_White.svg" alt="Bash" width="70"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Puppet_logo.jpg" alt="Puppet" width="70"/>
