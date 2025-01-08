@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Ikpenyi Ifeanyi
+# 👋 Hi, I'm Ifeanyi Ikpenyi
 
 I'm a passionate Backend Software Engineer based in Nigeria. I specialize in breaking down complex problems into manageable pieces and crafting solutions through efficient and clean code. I thrive on challenges and view them as opportunities to grow, improve my skills, and innovate.
 
